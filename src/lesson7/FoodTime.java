@@ -1,7 +1,6 @@
 package lesson7;
 
 public class FoodTime {
-
  public void allowCatsEatFood(Cat[] cats, Plate[] plates) {
      for (Cat cat : cats) {
          for (int j = 0; j < plates.length; j++) {
